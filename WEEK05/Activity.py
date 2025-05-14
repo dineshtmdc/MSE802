@@ -56,6 +56,7 @@ vectors = {
 
 colors = ['blue', 'green', 'red', 'orange', 'purple', 'brown', 'cyan']
 
+
 plt.figure(figsize=(10, 8))
 plt.axhline(0, color='black', lw=1)
 plt.axvline(0, color='black', lw=1)
